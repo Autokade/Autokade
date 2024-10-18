@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/autokade27_12" target="blank"><img src="https://img.shields.io/twitter/follow/autokade27_12?logo=twitter&style=for-the-badge" alt="autokade27_12" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Autokade&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🌱 I’m currently learning **Frontend, Backend and DSA**
 
